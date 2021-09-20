@@ -1,2 +1,4 @@
 # Assignments
- Weekly tasks etc.
+ cph-ar321@cphbusiness.dk
+ 
+ August Einarsson Rathsach
