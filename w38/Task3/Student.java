@@ -14,16 +14,16 @@ char datamatikerTeam;
 
   }
 
-  String getName() {
+  public String getName() {
 		return name;
 	}
-	int getAge() {
+	public int getAge() {
 		return age;
 	}
-	boolean getIsFemale() {
+	public boolean getIsFemale() {
 		return isFemale;
 	}
-	char getDatamatikerTeam() {
+	public char getDatamatikerTeam() {
 		return datamatikerTeam;
 	}
 

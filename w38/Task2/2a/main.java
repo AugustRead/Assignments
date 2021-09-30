@@ -22,7 +22,7 @@ public static void main(String [] args) {
 
 public static boolean iAmHappy()
 {
-  if (happy == true);
-  return true;
+
+  return happy;
 }
 }

@@ -19,7 +19,7 @@ class Datamatik {
 
   public static void main(String[] args){
 
-    Teacher teacher = new Teacher("Jesper",150,false);
+    Teacher teacher = new Teacher("Tess",47,true);
     Student s1 = new Student("August",23,false,'A');
     Student s2 = new Student("William",420,false,'A');
 
