@@ -10,7 +10,6 @@ public class Benzinbil extends Bil{
         this.oktantal = oktantal;
         this.kmPrL = kmPrL;
     }
-
     public float getOktantal() {
         return oktantal;
     }

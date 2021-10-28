@@ -37,7 +37,6 @@ public class Elbil extends Bil {
         this.whPrKm = whPrKm;
     }
 
-
     @Override
     public String toString() {
         return "Elbil{" +
@@ -51,7 +50,6 @@ public class Elbil extends Bil {
                 ", whPrKm=" + whPrKm +
                 '}';
     }
-
     @Override
     double beregnGrønEjerafgift() {
 

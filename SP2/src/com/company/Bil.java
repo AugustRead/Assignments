@@ -16,7 +16,6 @@ public abstract class Bil {
         this.antalDøre = antalDøre;
     }
 
-
     abstract double beregnGrønEjerafgift();
 
     public int getRegNr() {

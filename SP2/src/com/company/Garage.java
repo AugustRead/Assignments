@@ -27,7 +27,6 @@ public class Garage {
         return s;
     }
 
-
     public void beregnGrønAfgiftForBilpark(){
 
         int samletAfgift = 0;

@@ -47,7 +47,6 @@ public class Dieselbil extends Bil{
      if(harPartikelfilter) {
          total += 1000;
      }
-
         if(kmPrL < 5){
             return total +10470+15260;
         } else if (kmPrL >= 5 && kmPrL < 10) {

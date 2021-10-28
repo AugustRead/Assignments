@@ -23,6 +23,5 @@ public class Main {
 
         //total green tax for all cars in the garage.
         garage.beregnGrønAfgiftForBilpark();
-
     }
 }
