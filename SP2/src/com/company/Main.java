@@ -14,6 +14,7 @@ public class Main {
         System.out.println("Ejerafgiften på din elbil er beregnet til at være: "+elbil.beregnGrønEjerafgift()+",-");
         System.out.println("Ejerafgiften på din dieselbil er beregnet til at være: "+dieselbil.beregnGrønEjerafgift()+",-");
 
+        //add the cars to the arraylist.
         garage.tilføjBilTilGarage(benzinbil);
         garage.tilføjBilTilGarage(elbil);
         garage.tilføjBilTilGarage(dieselbil);

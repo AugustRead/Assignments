@@ -43,10 +43,9 @@ public class Dieselbil extends Bil{
     @Override
     double beregnGrønEjerafgift() {
 
-     double total = 0;
-     if(harPartikelfilter) {
-         total += 1000;
-     }
+
+     double total = harPartikelfilter ? 1000:0;
+
         if(kmPrL < 5){
             return total +10470+15260;
         } else if (kmPrL >= 5 && kmPrL < 10) {

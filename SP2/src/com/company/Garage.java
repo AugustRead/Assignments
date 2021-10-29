@@ -29,7 +29,7 @@ public class Garage {
 
     public void beregnGrønAfgiftForBilpark(){
 
-        int samletAfgift = 0;
+        double samletAfgift = 0;
 
         for (Bil bil : biler) {
 
